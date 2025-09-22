@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there my name is Walisson Gandorini👋</h1>
 
 ###
 
@@ -22,7 +22,14 @@
 
 ###
 
-<p align="left">I'm Walisson Gandorini from Lisbon<br><br>- 🔭 I’m working as a Data Analyst, but I also have experience with the tech world<br>- 📚 I'm currently learning Power BI, Python for devoloping for developing Pipelines (ETL's) and automation<br>- ⚡ In my free time I like to learn more about topics I personally like and play musical instruments</p>
+<p align="left">
+Hi! I’m currently working as a Junior Data Analyst at Grupo PIE S.A in Portugal. Every day I strive to grow as a professional by mastering data analysis, ETL pipelines, dashboards, and applying machine learning to real-world problems.<br>
+I hold a professional certificate from the TGPSI course at "Escola Digital – Programação e Tecnologia," which gave me a strong foundation across multiple areas of tech.<br>  
+I enjoy building end-to-end data solutions, from wrangling and cleaning data to creating interactive dashboards and predictive models using Python.  
+My goal is to transform data into actionable insights that drive smarter business decisions.<br><br>
+- 📚 I'm currently learning Power BI, Python for developing pipelines (ETL) and automation.  
+- ⚡ In my free time, I like to explore topics I’m personally interested in and play musical instruments.
+</p>
 
 ###
 
