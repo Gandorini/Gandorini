@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there my name is Walisson Gandorini👋</h1>
+<h1 align="center">hey there I am Walisson Gandorini👋</h1>
 
 ###
 
