@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
-Hi! I’m currently working as a Junior Data Analyst at Grupo PIE S.A in Portugal. Every day I strive to grow as a professional by mastering data analysis, ETL pipelines, dashboards, and applying machine learning to real-world problems.<br>
+Hi! I’m currently working as a Junior Data Analyst at Grupo PIE S.A in Portugal.<br><br> Every day I strive to grow as a professional by mastering data analysis, ETL pipelines, dashboards, and applying machine learning to real-world problems.<br>
 I hold a professional certificate from the TGPSI course at "Escola Digital – Programação e Tecnologia," which gave me a strong foundation across multiple areas of tech.<br>  
 I enjoy building end-to-end data solutions, from wrangling and cleaning data to creating interactive dashboards and predictive models using Python.  
 My goal is to transform data into actionable insights that drive smarter business decisions.<br><br>
