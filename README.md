@@ -27,8 +27,10 @@ Hi! I’m currently working as a Junior Data Analyst at Grupo PIE S.A in Portuga
 I hold a professional certificate from the TGPSI course at "Escola Digital – Programação e Tecnologia," which gave me a strong foundation across multiple areas of tech.<br>  
 I enjoy building end-to-end data solutions, from wrangling and cleaning data to creating interactive dashboards and predictive models using Python.  
 My goal is to transform data into actionable insights that drive smarter business decisions.<br><br>
-- 📚 I'm currently learning Power BI, Python for developing pipelines (ETL) and automation.  
+- 📚 I'm currently learning Power BI, Python for developing pipelines (ETL) and automation. <br> 
 - ⚡ In my free time, I like to explore topics I’m personally interested in and play musical instruments.
+<br>
+<br>
 </p>
 
 ###
