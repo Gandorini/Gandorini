@@ -45,8 +45,6 @@ My goal is to transform data into actionable insights that drive smarter busines
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" height="40" alt="Python Pandas logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Sheet logo"/>
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
