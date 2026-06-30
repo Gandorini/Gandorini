@@ -1,61 +1,57 @@
+
 <div align="center">
-  <img height="150" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"  />
+  <img height="150" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/walisson-gandorini-073ba729b" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
 
 ###
 
-###
-
-<h1 align="center">hey there I am Walisson Gandorini👋</h1>
+<h1 align="center">Hi, I am Walisson Gandorini</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h3 align="left">About Me</h3>
 
 <p align="left">
-Hi! I’m currently working as a Junior Data Analyst at Grupo PIE S.A in Portugal.<br><br> Every day I strive to grow as a professional by mastering data analysis, ETL pipelines, dashboards, to solve real-world problems.<br>
-I hold a professional certificate from the TGPSI course at "Escola Digital – Programação e Tecnologia," which gave me a strong foundation across multiple areas of tech.<br>  
-I enjoy building end-to-end data solutions, from wrangling and cleaning data to creating interactive dashboards and predictive models using Python.  
-My goal is to transform data into actionable insights that drive smarter business decisions.<br><br>
-- 📚 I'm currently learning Power BI, Python for developing pipelines (ETL) and automation. <br> 
-- ⚡ In my free time, I like to explore topics I’m personally interested in and play musical instruments.
+I am a Data Analyst based in Portugal, currently working at Grupo PIE S.A.
+<br><br>
+My work focuses on building automated data workflows, data pipelines, ETL processes and business intelligence solutions using Python, SQL and Power BI.
+<br><br>
+I have hands-on experience extracting and transforming real-world business data from APIs, web scraping workflows and operational systems, then modelling it into structured datasets, dashboards and KPIs for decision-making.
+<br><br>
+I am currently strengthening my path towards Data Engineering, with focus on scalable pipelines, PostgreSQL, automation, backend data systems and cloud-based data architectures.
+<br><br>
+I hold a professional certificate in Software Development from Escola Profissional de Tecnologia Digital, which gave me a strong foundation in programming, databases and IT systems.
+<br><br>
+- Currently working with: Python, SQL, Power BI, Power Query, DAX, APIs and ETL workflows.
 <br>
+- Currently learning: PostgreSQL, Docker, data pipeline design and cloud data fundamentals.
 <br>
+- Career direction: Data Analyst → Analytics Engineer / Junior Data Engineer.
+<br>
+- Interests: data systems, automation, business intelligence and practical software engineering.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="40" alt="Power BI logo"  />
-  <img width="12" />
-  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5t2876a077mmqjbc8rdt.png" height="40" alt="Power BI logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="40" alt="Python"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="40" alt="React.js logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" height="40" alt="Git logo"  />
-</div>
-
-###
-###
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL Pipelines" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
